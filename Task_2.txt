@@ -1,0 +1,34 @@
+1. Why do you like to join as a Software developer?
+A.  Throughout my academic journey, I have developed proficiency in programming languages such as Java, c and Python, along with practical experience in databases like MongoDB, MySQL and web development. 
+    Possessing a quick learning ability and strong problem-solving skills, I am eager to apply my expertise in a reputable organization. 
+    I am enthusiastic about contributing to the company's growth and enhancing my own professional development through meaningful contributions.
+
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+A.  1. GitHub : GitHub crucial for sharing, reviewing, and contributing to open-source projects, and GitHub is valuable for collaborative coding, which is often required in team projects.
+    2. Android Studio: Android Studio is the official IDE for Android app development. 
+    3. Wireshark: Wireshark is a network protocol analyzer. It helps in understanding network traffic, troubleshooting connectivity issues, and gaining insights into how data is transmitted over networks.
+
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+A.  1. Google: Google is renowned for its innovative culture, impactful projects, and emphasis on creating a positive work environment.
+    2. Adobe: Adobe is a prominent software company known for its creative and document management solutions.
+    3. Microsoft: Microsoft is a global technology leader with a diverse range of products and services. Joining Microsoft offers the chance to work on cutting-edge projects, contribute to industry-leading technologies, and be part of a company that values continuous learning and growth.
+
+
+4. How you position yourself in this industry after 2 years?
+A.  As a B.Tech fresher, my goal in the next two years is to become a proficient professional in Software developer. I aim to enhance my skills in programming like Java and Python, actively engage in cross-functional collaborations, and seek mentorship for career development. Gradually taking on leadership roles, contributing innovative solutions to projects, and building a strong professional network are key priorities.
+
+
+5.  List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same?
+A.  1. ConvoCraft: Interactive Web Chat Platform (Chat Application)
+                        Description : Built a real-time chat application with features like private messaging and group chats. 
+                        Role : Full-stack developer; utilized WebSocket for real-time communication, and developed both front-end and back-end components.
+
+    2. Library Management System:
+                        Description: Created a web-based system for managing library resources, including book tracking and user management.
+                        Role: Full-stack developer; responsible for database design, backend development using Django, and front-end implementation.
+    
+    3. Smart Agriculture System:
+                        Description: Iam Planning to Design an IoT-based system for monitoring soil moisture, temperature, and automating irrigation in agricultural fields.
+                        Role: Project lead; involved in conceptualization, hardware integration using Arduino, and coordination of team members.

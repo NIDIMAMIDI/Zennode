@@ -1,0 +1,25 @@
+=> I had created a class named Catalogue 
+
+=> Intailize the below Product details by using constructor
+    Product A : $20
+    Product B : $40
+    Product C : $50
+
+=> We had taken quantity of each Product required from user. 
+=> We will ask either it will wrapped or not. For wrapping each item it costs $1.
+=> Shipping fee for each package is $5 and 10 units can be packed in one package.
+=> After taking input from user we will calculate  total number of quantities that are available and total cost of the quantities in the cart.
+=> If cart total exceeds $200, then we will apply a flat $10 discount on the cart total.
+=> If the quantity of any single product exceeds 10 units, apply a 5% discount on that item's total price.
+=> If total quantity exceeds 20 units, apply a 10% discount on the cart total.
+=> If total quantity exceeds 30 units & any single product quantity greater than 15, then apply a 50% discount on products which are above  15 quantity. The first 15 quantities have the original price and units above 15 will get a 50% discount.
+=> After calculating all the discounts on each product we will print the below details to the console.
+
+    1. The product name, quantity & total amount of that product.
+    2. Subtotal.
+    3. The discount name applied & the discount amount.
+    4. The shipping fee & the gift wrap fee.
+    5. Total.
+
+
+
